@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-I'm an enterprise SaaS Support Engineer based in Florida, working in tech support for the last 5 years. Most recently I spent 2 years and 9 months at Unily supporting Fortune 500 customers like Lockheed Martin and American Express. I'm bilingual in English and Spanish.
+I'm an enterprise SaaS Support Engineer based in Florida, working in tech support for the last 5 years. Most recently I spent 2 years and 9 months at Unily supporting Fortune 500 customers. I'm bilingual in English and Spanish.
 
 **What I'm doing now**
 - Job searching for Technical Support Engineer / Customer Support Engineer roles
