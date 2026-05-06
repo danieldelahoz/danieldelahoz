@@ -12,7 +12,7 @@ I'm an enterprise SaaS Support Engineer, working in tech support for the last 5 
 - **Building with:** React, Next.js, Node, JavaScript, HTML, CSS
 
 **Projects**
-- 🌐 [danield.dev](https://danield.dev) — personal portfolio (Next.js)
+- 🌐 [danield.dev](https://danield.dev) — personal website/portfolio
 - 🔧 [Probe](https://probe.danield.dev) — REST API testing tool I built with Claude (React)
 
 **Other interests**
