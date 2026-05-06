@@ -8,7 +8,7 @@ I'm an enterprise SaaS Support Engineer, working in tech support for the last 5 
 - Learning full-stack JavaScript through The Odin Project
 
 **Tech I work with**
-- **Day job:** Azure, Microsoft 365, Microsoft Graph, Postman, SQL, DataDog, Kibana, ServiceNow, ITIL
+- **Day job:** Azure, Microsoft 365, Microsoft Graph, Postman, SQL, DataDog, Kibana, ServiceNow
 - **Building with:** React, Next.js, Node, JavaScript, HTML, CSS
 
 **Projects**
